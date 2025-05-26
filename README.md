@@ -1,5 +1,5 @@
 # Ex.No:10 Develop an android application to create a option menu to display menu items using android studio
-
+## DATE: 11/04/2025
 ## AIM:
 To create a option menu to display menu items using Android Studio.
 
